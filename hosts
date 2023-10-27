@@ -9,6 +9,3 @@ webserver[1:2]
 
 [db]
 dbserver
-
-[storage]
-storage
